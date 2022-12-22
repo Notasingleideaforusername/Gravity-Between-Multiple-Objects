@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1670961569 source:c:\users\wormx\onedrive\pulpit\codeblock's projects\stars\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	"Stars.h"
+
+1670961484 c:\users\wormx\onedrive\pulpit\codeblock's projects\stars\stars.h
+	<iostream>
+
+1670961449 source:c:\users\wormx\onedrive\pulpit\codeblock's projects\stars\stars.cpp
+	<iostream>
+	"Stars.h"
+
+1671731675 source:c:\users\wormx\desktop\codeblock's projects\stars\stars.cpp
+	<iostream>
+	"Stars.h"
+
+1671733117 c:\users\wormx\desktop\codeblock's projects\stars\stars.h
+	<iostream>
+
+1671732708 source:c:\users\wormx\desktop\codeblock's projects\stars\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	"Stars.h"
+
